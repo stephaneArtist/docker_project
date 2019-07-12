@@ -1,0 +1,29 @@
+
+*********************************************************************** -Rapport du projet- ******************************************************************************************
+
+
+
+Site : The stage
+
+Créateur : Mzabi hakim
+
+Date de création : 4/05/2016
+
+Conception du site :
+
+The stage est une application web réalisée par l'etudiant de l'UPEC Mzabi hakim dans le cadre d'un projet .
+cette application consiste à gérer des stages au niveau de l'université , Les stages sont déposés par les entreprises et peuvent être consultés par les étudiants (de plusieurs filières).
+Les entreprises peuvent modifier, ajouter ou supprimer ses offres de stages. 
+Les étudiants peuvent consulter les offres qui, par ailleurs,sont reparties en plusieurs catégories spécifiques aux filières dans lesquelles se trouvent les étudiants.
+Une fois l’offre choisi par l’étudiant (ou plusieurs étudiants), l’entreprise peut accepter ou refuser cet étudiant.
+
+
+Contraintes de mise en œuvre :
+
+- de temps (emploi du temps chargé, partiels) , sur tout avec la présence d'un autre projet à faire(projet systeme).
+- d’organisation (mise en place du projet, manque d’expérience) .
+- maîtrise du langage .
+
+Améliorations possibles :
+
+- création d'une table message dans la base de données qui facilite la comminucation entre les utlisateurs.
