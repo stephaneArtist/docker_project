@@ -8,7 +8,7 @@ include"heeader.php";
  
 
   <p> 
-     <h4> The stage est une application web réalisée par l'etudiant de l'UPEC Mzabi hakim dans le cadre d'un projet .
+     <h4> The stage est une application web réalisée dans le cadre d'un projet .
 
       cette application consiste à gérer des stages au niveau de l'université , Les
      
@@ -18,9 +18,11 @@ include"heeader.php";
      
       les offres qui, par ailleurs, sont reparties en plusieurs catégories spécifiques aux filières dans lesquelles
      
-      se trouvent les étudiants. Une fois l’offre choisi par l’étudiant (ou plusieurs étudiants), l’entreprise peut
+      se trouvent les étudiants. Une fois l’offre choisie par l’étudiant (ou plusieurs étudiants), l’entreprise peut
      
-      accepter ou refuser cet étudiant. <h4>
+      accepter ou refuser cet étudiant.
+      
+       <h4>
    </p>
 
 
