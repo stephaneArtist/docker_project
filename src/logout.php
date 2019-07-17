@@ -8,7 +8,7 @@ include("heeader.php");
 <br/><br/>
  <div class="alert alert-warning">
                
- <center>  <strong>Information:</strong> Vous êtes déconnecté !! </center>
+ <center>  <strong>Information:</strong> Vous êtes déconnecté </center>
             
  </div> 
 

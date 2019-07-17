@@ -6,7 +6,7 @@ require 'Authentification.class.php';
  $db ->setAttribute(PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION);
 
 $page_title = "Ajout utilisateur";
-include("header_ent.php");
+include"heeader.php";
 
 if (!isset($_POST["login"]) || !isset($_POST["password"]) ||
     !isset($_POST["password2"])||!isset($_POST["nom"]) ||!isset($_POST["prenom"])||!isset($_POST["type"])||!isset($_POST["userid"])){

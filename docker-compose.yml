@@ -36,7 +36,7 @@ services:
   
   phpmyadmin:
     
-    container_name: P_M_A
+    container_name: phpMyadmin
     
     image: phpmyadmin/phpmyadmin
     

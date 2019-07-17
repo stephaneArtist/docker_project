@@ -4,9 +4,10 @@ if (isset($badlogin)) {
 ?>
 <div class="alert alert-danger">
                
-                <center>  <strong>Attention:</strong> Email ou mot de passe invalide! !! </center>
-               <center><p class='info'>Vérifiez les données svp.</p></center>
-             </div> 
+  <center>  <strong>Attention:</strong> Email ou mot de passe invalide </center>
+  <center><p class='info'>Vérifiez vous données</p></center>
+
+</div> 
 
  
 
@@ -42,6 +43,7 @@ if (isset($badlogin)) {
           </div>
           <br/>
           <br/>
+          <a href="new_user.php"> créer un compte </a>
         </label>
       </div>
 
