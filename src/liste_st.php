@@ -60,7 +60,7 @@ if (  isset($_POST["cid"]))
                                       $res = $st->execute(array($fid,$cid));
   
                                        if($st->rowCount() == 0){
-                                        echo "<center>La liste est vide!!</center";
+                                        echo "<center>La liste est vide</center";
                                         include "footer.php";
                                         exit();
 
